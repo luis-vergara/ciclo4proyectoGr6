@@ -1,0 +1,101 @@
+registrar(POST)=
+
+http://localhost:3977/api/v1/auth/register
+
+REQUIERE BODY=
+
+{
+    "firstname": "adrian",
+    "lastname": "ceballos",
+    "email": "test1@hotmail.com",
+    "password": "1234"
+}
+
+login(POST)=
+
+http://localhost:3977/api/v1/auth/login
+
+REQUIERE BODY=
+
+{
+    "email":"test1@hotmail.com",
+    "password":"1234"
+}
+
+refreshAccessToken(POST)=
+
+http://localhost:3977/api/v1/auth/refresh_access_token
+
+REQUIERE BODY=
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsInVzZXJfaWQiOiI2Mzc1OWE5MjY4OTA3YmUwOWEwMDcxZmMiLCJpYXQiOjE2Njg3MjcwMzgwMzQsImV4cCI6MTY2ODcyNzAzODAzNH0.cHC9X0eJSKfqVaHZA6Pf2oTsyw6wJmq8GUh3nFcWf1c"
+}
+
+getMe(GET)=
+
+http://localhost:3977/api/v1/user/me
+
+Headers:
+
+KEY= Authorization VALUE= Bearer {{ACCESS_TOKEN}}
+
+getUsers(GET)=
+
+http://localhost:3977/api/v1/users
+
+Headers:
+
+KEY= Authorization VALUE= Bearer {{ACCESS_TOKEN}}
+
+updateUser(PATCH)=
+
+REQUIERE HEADER COMO EN EL ANTERIOR
+
+http://localhost:3977/api/v1/user/(Aqui se pone el id)
+
+se hace la actualizacion por medio de body/form-data
+
+KEY= el campo que se quiere cambiar  VALUE= el dato
+
+deleteUser(DELETE)=
+
+REQUIERE HEADER
+
+http://localhost:3977/api/v1/(Aqui se pone el id)
+
+obtenerTitulos(GET)=
+
+REQUIERE HEADER
+
+http://localhost:3977/api/v1/titulos
+
+obtenerTitulosPorNombre(GET)=
+
+REQUIRE HEADER
+
+http://localhost:3977/api/v1/nombre?nombre=(nombre de la pelicula)
+
+crearComentario(POST)=
+
+REQUIERE HEADER
+
+http://localhost:3977/api/v1/publicar
+
+REQUIERE BODY=
+
+{
+    "comentario": "comentario test",
+    "valoracion": 2.5,
+    "user_id": "6382e025108bdcf1b7052fef",
+    "titulo_id": "6382dba7d532dc20e3ee4b5d"
+}
+
+obtenerComentarioIdTitulo(GET)=
+
+REQUIERE HEADER
+
+http://localhost:3977/api/v1/comentarios?titulo_id=(id de titulo)
+
+
+

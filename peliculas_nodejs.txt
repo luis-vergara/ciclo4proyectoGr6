@@ -1,0 +1,874 @@
+[
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una joven aspirante a músico y un marine a punto de irse a Irak deciden casarse por conveniencia. Pero una tragedia pronto convierte su relación falsa en algo muy real.",
+        "titulo": "Corazones malheridos",
+        "urlPoster": "https://pics.filmaffinity.com/purple_hearts-357101918-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Romance"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una rotura de la tubería principal de agua crea un enorme socavón justo delante de Bob's Burgers, bloqueando la entrada a la hamburguesería indefinidamente y echando por tierra los planes de los Belcher para el verano. Mientras Bob y Linda luchan por mantener su negocio a flote, los niños intentan resolver un misterio que podría salvar el restaurante familiar. A medida que aumentan los peligros, todos se apoyan entre sí con la esperanza de volver a estar detrás del mostrador.",
+        "titulo": "Bobs Burgers: La película",
+        "urlPoster": "https://pics.filmaffinity.com/bob_s_burgers_the_movie-972387144-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Chicago. 1956. Leonard (Rylance), es un sastre inglés que confeccionaba trajes en la mundialmente famosa Savile Row de Londres. Después de una tragedia personal termina en Chicago, trabajando en una pequeña sastrería en una zona difícil de la ciudad donde hace ropa elegante para las únicas personas a su alrededor que pueden pagarla: una familia de gángsters. Esta familia de mafiosos intentará aprovecharse de la naturaleza gentil y complaciente de Leonard, que junto a su asistenta Mable (Zoey Deutch) se verá implicado con la mafia de una manera cada vez más grave.",
+        "titulo": "El sastre de la mafia",
+        "urlPoster": "https://pics.filmaffinity.com/the_outfit-784696853-large.jpg",
+        "valoracion": 6.6,
+        "genero": "Crimen"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Después de dos años acechando por las calles de la ciudad como Batman (Robert Pattinson), e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City. Este vigilante solitario cuenta con pocos aliados de confianza y eso le ha llevado a convertirse en la única encarnación de la venganza entre sus conciudadanos. Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas lleva a Batman a realizar una investigación en el inframundo.",
+        "titulo": "The Batman",
+        "urlPoster": "https://pics.filmaffinity.com/the_batman-449856406-large.jpg",
+        "valoracion": 7.0,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Veinticinco años después de que una serie de brutales asesinatos conmocionara al tranquilo pueblo de Woodsboro, un nuevo asesino se ha puesto la máscara de Ghostface y comienza a perseguir a un grupo de adolescentes para resucitar los secretos del mortífero pasado del pueblo.",
+        "titulo": "Scream",
+        "urlPoster": "https://pics.filmaffinity.com/scream-569724366-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una aventura de la era espacial ambientada en el contexto de la misión lunar Apolo, en 1969, e inspirada en la infancia del director Richard Linklater.",
+        "titulo": "Apolo 10½: Una infancia espacial",
+        "urlPoster": "https://pics.filmaffinity.com/apollo_10_1_2_a_space_age_adventure-631425927-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La puerta del tiempo se abre entre los espadachines que quieren apoderarse de la legendaria espada divina al final de la Dinastía Goryeo y los que persiguen a un alienígena prisionero encarcelado en un cuerpo humano en 2022.",
+        "titulo": "Alienoid: Part 1",
+        "urlPoster": "https://pics.filmaffinity.com/oegye_in_1bu-913849450-large.jpg",
+        "valoracion": null,
+        "genero": "Ficción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Leo Castañeda, español afincado en Bruselas, trabaja como conductor de metro. Una noche presencia el suicidio de Hugo, su hijo, del que llevaba más de dos años sin saber nada. Tras lo sucedido, Leo empieza a indagar en las causas de su muerte y descubre que estuvo implicado en un atraco. La búsqueda de respuestas lo conducirá a una peligrosa investigación y a enfrentarse a su propio pasado.",
+        "titulo": "Entre la vida y la muerte",
+        "urlPoster": "https://pics.filmaffinity.com/entre_la_vie_et_la_mort-967085790-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "En una ciudad de Colorado, en los años 70, un enmascarado secuestra a Finney Shaw, un chico tímido e inteligente de 13 años, y le encierra en un sótano insonorizado donde de nada sirven sus gritos. Cuando un teléfono roto y sin conexión empieza a sonar, Finney descubre que a través de él puede oír las voces de las anteriores víctimas, las cuales están decididas a impedir que Finney acabe igual que ellas. ",
+        "titulo": "Black Phone",
+        "urlPoster": "https://pics.filmaffinity.com/the_black_phone-804220392-large.jpg",
+        "valoracion": 6.4,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Nate Foster, de 13 años, es un chico impopular del Medio Oeste que tiene vívidas fantasías de convertirse en una gran estrella musical de Broadway.",
+        "titulo": "El sueño de Nate",
+        "urlPoster": "https://pics.filmaffinity.com/better_nate_than_ever-974827325-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Claude y Marie Verneuil, que pasaron un mal rato cuando tuvieron que hacerse a la idea de que sus cuatro hijas se casaban con maridos de origen extranjero, aunque acabaron aceptándolo, atraviesan de nuevo una crisis. Los cuatro yernos, Rachid, David, Chao y Charles, han decidido irse de Francia por motivos distintos. Los Verneuil se ven ya viviendo en el extranjero...",
+        "titulo": "Dios mío, ¿pero qué nos has hecho?",
+        "urlPoster": "https://pics.filmaffinity.com/qu_est_ce_qu_on_a_encore_fait_au_bon_dieu-240519386-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Un héroe samurái: La leyenda de Hank",
+        "titulo": "Un héroe samurái: La leyenda de Hank",
+        "urlPoster": "https://pics.filmaffinity.com/paws_of_fury_the_legend_of_hank-303030305-large.jpg",
+        "valoracion": 5.1,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "A lo largo de varias épocas, una familia pobre, un promotor inmobiliario y una casera hastiada están conectados a la misma casa misteriosa. ",
+        "titulo": "La casa",
+        "urlPoster": "https://pics.filmaffinity.com/the_house-147641954-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Briggs, acompañado de su perro Lulu, un malinois belga, viaja por la costa oeste para ir al funeral de un amigo.",
+        "titulo": "Dog. Un viaje salvaje",
+        "urlPoster": "https://pics.filmaffinity.com/dog-263685812-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuando se conocieron, Sara vivía con François, el mejor amigo de Jean. Ahora, Jean y Sara se quieren y viven juntos hace 10 años. Un día, Sara ve a François por la calle. Él no se da cuenta, pero a ella le invade la sensación de que su vida podría cambiar repentinamente. Al mismo tiempo, François retoma el contacto con Jean por primera vez en años y le propone volver a trabajar juntos. A partir de aquí, todos perderán el control.",
+        "titulo": "Fuego",
+        "urlPoster": "https://pics.filmaffinity.com/avec_amour_et_acharnement-104958240-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Un líder de operaciones encubiertas notoriamente despiadado recibe el apodo de Yaksha, en honor a un espíritu devorador de humanos. Un fiscal decide investigarlo, para descubrir una misión que podría sacudir a todo el continente.",
+        "titulo": "Yaksha: Operaciones despiadadas",
+        "urlPoster": "https://pics.filmaffinity.com/yaksha_ruthless_operations-325326801-large.jpg",
+        "valoracion": 5.4,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Basada en una de las series de videojuegos más vendidas y aclamadas por la crítica de todos los tiempos, \"Uncharted\" presenta a un joven, astuto y carismático, Nathan Drake (Tom Holland) en su primera aventura como cazatesoros con su ingenioso compañero Victor “Sully” Sullivan (Mark Wahlberg). En una aventura de acción que se extiende por todo el mundo, ambos se embarcan en una peligrosa búsqueda de “el mayor tesoro nunca antes encontrado” al tiempo que rastrean las claves que les podrían conducir al hermano de Nathan, perdido hace ya mucho tiempo.",
+        "titulo": "Uncharted",
+        "urlPoster": "https://pics.filmaffinity.com/uncharted-417211360-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Tras una misión de sabotaje fallida, un trío de rebeldes contra el apartheid se ve envuelto en una tensa situación con rehenes en un banco.",
+        "titulo": "El asedio de Silverton",
+        "urlPoster": "https://pics.filmaffinity.com/silverton_siege-495827388-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Sam Greenfield, que ha crecido en un centro de acogida, es la persona más desafortunada del mundo. Cuando descubre la ignota Tierra de la Suerte, Sam debe hermanarse con las criaturas mágicas que viven allí para cambiar su fortuna.",
+        "titulo": "Luck",
+        "urlPoster": "https://pics.filmaffinity.com/luck-722224530-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Sigue a la familia Antetokounmpo mientras confían en la fe, la determinación y su vínculo inquebrantable para salir de una vida de pobreza como inmigrantes indocumentados que viven en Grecia.",
+        "titulo": "Superación: La historia de la familia Antetokounmpo",
+        "urlPoster": "https://pics.filmaffinity.com/rise-831485862-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuando la especie humana se adapta a un entorno artificial, el cuerpo humano es objeto de nuevas transformaciones y mutaciones. Con la ayuda de su compañera Caprice (Léa Seydoux), Saul Tenser (Viggo Mortensen), célebre artista performativo, escenifica la metamorfosis de sus órganos en espectáculos de vanguardia. Timlin (Kristen Stewart), una investigadora de la Oficina del Registro Nacional de Órganos, sigue de cerca sus prácticas. Es entonces cuando un grupo misterioso aparece: desean aprovechar la fama de Saul para revelar al mundo la próxima etapa de la evolución humana…",
+        "titulo": "Crímenes del futuro",
+        "urlPoster": "https://pics.filmaffinity.com/crimes_of_the_future-315474597-large.jpg",
+        "valoracion": 6.1,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El Doctor Nate Samuels, que se ha quedado viudo recientemente, regresa a Sudáfrica, lugar en el que conoció a su mujer, para visitar una reserva de animales con sus hijas. Pero lo que empieza siendo un viaje de relax se convierte en una lucha por la supervivencia cuando un león que ha escapado de unos cazadores furtivos empieza a perseguirles",
+        "titulo": "La bestia",
+        "urlPoster": "https://pics.filmaffinity.com/beast-772410629-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete \"Mavericks\" Mitchel (Tom Cruise) se encuentra donde siempre quiso estar: superando los límites como un valiente piloto de pruebas y esquivando el ascenso de rango, que no le dejaría volar emplazándolo en tierra. Cuando es destinado a la academia de Top Gun con el objetivo de entrenar a los pilotos de élite para realizar una peligrosa misión en territorio enemigo, Maverick se encuentra allí con el joven teniente Bradley Bradshaw (Miles Teller), el hijo de su difunto amigo \"Goose\".",
+        "titulo": "Top Gun: Maverick",
+        "urlPoster": "https://pics.filmaffinity.com/top_gun_maverick-537976462-mmed.jpg",
+        "valoracion": 7.3,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una mujer que se crió en las marismas del sur profundo se convierte en sospechosa del asesinato de un hombre con el que una vez estuvo involucrada.",
+        "titulo": "La chica salvaje",
+        "urlPoster": "https://pics.filmaffinity.com/where_the_crawdads_sing-148645127-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Krypto el Superperro y Superman son amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a un variopinto grupo de un albergue –Ace el sabueso, PB la cerdita barrigona, Merton la tortuga y Chip la ardilla– de dominar sus nuevos poderes y ayudarlo a rescatar a los superhéroes.",
+        "titulo": "DC Liga de supermascotas",
+        "urlPoster": "https://pics.filmaffinity.com/dc_league_of_super_pets-191999300-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Un presentador de radio de la ciudad de Nueva York intenta resolver el asesinato de su novia y viaja hacia el sur para investigar las circunstancias de su muerte y descubrir qué le sucedió.",
+        "titulo": "Vengeance",
+        "urlPoster": "https://pics.filmaffinity.com/vengeance-544849554-large.jpg",
+        "valoracion": 6.1,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Por diferentes razones, Ali y Ava se sienten solos. Se conocen a través de Sofía, la hija de los inquilinos eslovacos de Ali a quien Ava cuida. A partir de ahí y durante un mes lunar, una conexión profunda comienza a crecer entre ellos, a pesar de las secuelas de la relación anterior de Ava y la confusión emocional de Ali; y todo ello alimentado por la pasión de ambos por la música.",
+        "titulo": "Ali y Ava",
+        "urlPoster": "https://pics.filmaffinity.com/ali_ava-213893979-large.jpg",
+        "valoracion": 6.4,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Un hijo adolescente con dos padres hace un documental sobre ellos, pero un giro argumental en la vida real de su familia le sorprende.",
+        "titulo": "El hilo imperceptible",
+        "urlPoster": "https://pics.filmaffinity.com/il_filo_invisibile-135038266-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La historia del ícono checo del siglo XV y señor de la guerra Jan Zizka, quien derrotó a los ejércitos de la Orden Teutónica y el Sacro Imperio Romano Germánico.",
+        "titulo": "Medieval",
+        "urlPoster": "https://pics.filmaffinity.com/medieval-423308372-large.jpg",
+        "valoracion": 8.0,
+        "genero": "Historico"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Nancy Stokes, una maestra de escuela jubilada, anhela algo de aventura y sexo. Buen sexo. Su difunto marido Robert le proporcionaba un hogar, una familia y algo parecido a una vida, pero nunca tuvo buen sexo de él. Ahora que hace tiempo que Robert falleció, Nancy pone en marcha su plan y contrata a un joven gigoló que responde al exótico nombre de “Leo Grande”. En una habitación de hotel anónima, Nancy recibe a Leo. Su aspecto es tan bueno como el de su foto, pero lo que ella no esperaba era una gran conversación. Nancy descubre que le gusta. Y a él le gusta ella. Con una gran confianza sexual, Nancy empieza a relajarse. En el transcurso de su encuentro, la dinámica de poder cambia y las máscaras de los personajes empezarán a desmoronarse",
+        "titulo": "Buena suerte, Leo Grande",
+        "urlPoster": "https://pics.filmaffinity.com/good_luck_to_you_leo_grande-540646343-large.jpg",
+        "valoracion": 6.6,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La historia se desarrolla en Tokio, después de que burbujas que rompieron las leyes de la gravedad llovieron sobre el mundo. Aislada del mundo exterior, Tokio se ha convertido en un patio de recreo para un grupo de jóvenes que han perdido a sus familias, actuando como un campo de batalla para las batallas en equipo de parkour mientras saltan de un edificio a otro. Hibiki, un joven más conocido por su peligroso estilo de juego, hace un movimiento imprudente un día y cae en picado en el mar de la gravedad. Su vida es salvada por Uta, una chica con poderes misteriosos que aparece de repente. Luego, la pareja escucha un sonido único audible solo para ellos. ¿Por qué apareció Uta antes que Hibiki? Su encuentro conduce a una revelación que cambiará el mundo.",
+        "titulo": "Burbuja",
+        "urlPoster": "https://pics.filmaffinity.com/bubble-245164454-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Dos revolucionarios legendarios viajan lejos de su hogar para luchar por su país en los años 20",
+        "titulo": "RRR",
+        "urlPoster": "https://pics.filmaffinity.com/rrr-979403820-large.jpg",
+        "valoracion": 7.1,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante",
+        "titulo": "Red",
+        "urlPoster": "https://pics.filmaffinity.com/turning_red-326602450-large.jpg",
+        "valoracion": 6.5,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Convencida de que un divorcio la separaría de su hija, Zohra no se atreve a dejar a su marido a pesar de su comportamiento violento. Sufre sus golpes en silencio. Pero todo cambia cuando conoce a Chang Sue. (FILMAFFINITY)",
+        "titulo": "Kung-Fu Zohra",
+        "urlPoster": "https://pics.filmaffinity.com/kung_fu_zohra-909563635-large.jpg",
+        "valoracion": 5.4,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Basada en la historia real, \"Trece vidas\" es el relato del rescate de un equipo de fútbol de la cueva de Tham Luang, en Tailandia, tras quedar atrapado por las lluvias torrenciales y peligrosas inundaciones.",
+        "titulo": "Trece vidas",
+        "urlPoster": "https://pics.filmaffinity.com/thirteen_lives-664179403-large.jpg",
+        "valoracion": 7.2,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Emily se ve involucrada en una estafa con tarjetas de crédito tras cargar con una deuda, lo que la arrastra al submundo criminal y mortal de Los Ángeles.",
+        "titulo": "Emily the Criminal",
+        "urlPoster": "https://pics.filmaffinity.com/emily_the_criminal-365967299-large.jpg",
+        "valoracion": null,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Basada en la novela de Agatha Christie, publicada en 1937. \"Muerte en el Nilo\" es un thriller de misterio dirigido por Kenneth Branagh sobre el caos emocional y las consecuencias letales que provocan los amores obsesivos. Las vacaciones egipcias del detective belga Hércules Poirot, a bordo de un glamuroso barco de vapor, se ven alteradas por la búsqueda de un asesino cuando la idílica luna de miel de una pareja perfecta se ve truncada de la forma más trágica.",
+        "titulo": "Muerte en el Nilo",
+        "urlPoster": "https://pics.filmaffinity.com/death_on_the_nile-573443754-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La Dra. en literatura Alithea Binnie (Tilda Swinton) parece estar feliz con su vida aunque se enfrenta al mundo con cierto escepticismo. De repente, se encuentra con un genio (Idris Elba) que ofrece concederle tres deseos a cambio de su libertad. En un principio, Alithea se niega a aceptar la oferta ya que sabe que todos los cuentos sobre conceder deseos acaban mal. El genio defiende su posición contándole diversas historias fantásticas de su pasado. Finalmente, ella se deja persuadir y pedirá un deseo que sorprenderá a ambos. ",
+        "titulo": "Tres mil años esperándote",
+        "urlPoster": "https://pics.filmaffinity.com/three_thousand_years_of_longing-444051230-large.jpg",
+        "valoracion": 6.3,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Chip y Chop: Los guardianes rescatadores",
+        "titulo": "Chip y Chop: Los guardianes rescatadores",
+        "urlPoster": "https://pics.filmaffinity.com/chip_n_dale_rescue_rangers-335785940-large.jpg",
+        "valoracion": 6.5,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El Dios del Trueno (Chris Hemsworth) emprende un viaje que no se parece en nada a lo que se ha enfrentado hasta ahora: una búsqueda de la paz interior. Pero el retiro de Thor se ve interrumpido por un asesino galáctico conocido como Gorr el Carnicero de Dioses (Christian Bale), que busca la extinción de los dioses. Para hacer frente a la amenaza, Thor solicita la ayuda del Rey Valkiria (Tessa Thompson), de Korg (Taika Waititi) y de su ex novia Jane Foster (Natalie Portman) que, para sorpresa de Thor, empuña inexplicablemente su martillo mágico, Mjolnir, como la Poderosa Thor. Juntos, se embarcan en una aventura cósmica en la que tendrán que descubrir el misterio de la venganza del Carnicero de Dioses y detenerlo antes de que sea demasiado tarde",
+        "titulo": "Thor: Love and Thunder",
+        "urlPoster": "https://pics.filmaffinity.com/thor_love_and_thunder-566116133-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "En Islandia, en pleno siglo X, un príncipe nórdico (Skarsgard) busca vengar a toda costa la muerte de su padre. ",
+        "titulo": "El hombre del norte",
+        "urlPoster": "https://pics.filmaffinity.com/the_northman-710039658-large.jpg",
+        "valoracion": 6.7,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "En 1979, un grupo de jóvenes cineastas se propusieron hacer una película para adultos en la zona rural de Texas, pero cuando sus anfitriones solitarios y ancianos los atrapan en el acto, el elenco pronto se encuentra en una lucha desesperada por sus vidas",
+        "titulo": "X",
+        "urlPoster": "https://pics.filmaffinity.com/x-902988465-large.jpg",
+        "valoracion": 6.3,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuando un grupo de veinteañeros adinerados planea una fiesta del huracán en una remota mansión familiar, un juego se vuelve mortal en esta historia de puñaladas por la espalda, falsos amigos y una velada que sale muy, muy mal.",
+        "titulo": "Bodies Bodies Bodies",
+        "urlPoster": "https://pics.filmaffinity.com/bodies_bodies_bodies-411409880-large.jpg",
+        "valoracion": 6.6,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Mimmi, Emma y Rönkkö son chicas en la cúspide de la feminidad, que intentan dibujar sus propios perfiles. En tres viernes consecutivos, dos de ellas experimentan los efectos conmovedores del enamoramiento, mientras que la tercera se lanza a la búsqueda de algo que nunca ha experimentado: el placer. ",
+        "titulo": "Girl Picture",
+        "urlPoster": "https://pics.filmaffinity.com/tytot_tytot_tytot-759043007-large.jpg",
+        "valoracion": 6.3,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Drama biográfico sobre Stuart Long, un boxeador convertido en sacerdote que inspiró a innumerables personas durante su viaje desde la autodestrucción hasta la redención. Cuando una lesión pone fin a su carrera como boxeador amateur, Stuart Long se muda a Los Ángeles soñando con ser actor. Allí conoce a Carmen, una maestra de escuela dominical católica que parece inmune a sus encantos. Decidido a conquistarla, el agnóstico de toda la vida comienza a ir a la iglesia para impresionarla, y así comienza un proceso en el que se plantea si puede reconducir su vida ayudando a otros a encontrar su camino.",
+        "titulo": "El milagro del Padre Stu",
+        "urlPoster": "https://pics.filmaffinity.com/father_stu-199554864-mmed.jpg",
+        "valoracion": 6.0,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Dos rancheros de un remoto pueblo del interior de California hacen un descubrimiento tan insólito como escalofriante.",
+        "titulo": "Nop",
+        "urlPoster": "https://pics.filmaffinity.com/nope-999319780-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "A través de su dolor compartido y conexión con la música, una niña huérfana se une a su tío violinista exitoso y emocionalmente distante.",
+        "titulo": "El violín de mi padre",
+        "urlPoster": "https://pics.filmaffinity.com/babamin_kemani-389157944-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Nueva adaptación de la novela de Paul Gallico. Narra la historia de una señora de la limpieza que enviuda (Manville) en los años 50 en Londres, y se enamora perdidamente de un vestido de Dior. Decide que ella debe hacerse con uno.",
+        "titulo": "El viaje a París de la señora Harris",
+        "urlPoster": "https://pics.filmaffinity.com/mrs_harris_goes_to_paris-814207373-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una familia danesa visita a una familia holandesa que conocieron en unas vacaciones. Lo que se suponía que iba a ser un fin de semana idílico comienza a desmoronarse lentamente mientras los daneses intentan ser educados ante lo desagradables que empiezan a ser los neerlandeses.",
+        "titulo": "Speak No Evil",
+        "urlPoster": "https://pics.filmaffinity.com/gaesterne-311170566-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas.",
+        "titulo": "Sonic 2: La película",
+        "urlPoster": "https://pics.filmaffinity.com/sonic_the_hedgehog_2-126622695-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "París, década de 1950, el cuerpo de una hermosa joven vestida con un elegante traje de noche aparece en mitad de una plaza. El célebre inspector Jules Maigret se encarga de investigar el caso, pero le resulta imposible identificar a la víctima, porque absolutamente nadie parece haberla conocido ni recordarla. En el transcurso de sus indagaciones, el camino de Maigret se cruza con el de Betty, una joven delincuente con un parecido sorprendente con la víctima. Todo ello despierta en Maigret el recuerdo de otra desaparición mucho más antigua e íntima.",
+        "titulo": "Maigret",
+        "urlPoster": "https://pics.filmaffinity.com/maigret_et_la_jeune_morte-341671482-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Crimen"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El único objetivo de Honor es ingresar a Harvard. Dispuesta a hacer lo que sea necesario, Honor inventa un plan para derrotar a sus tres principales competidores, hasta que las cosas toman un giro cuando inesperadamente se enamora de su mayor competencia.",
+        "titulo": "Honor Society",
+        "urlPoster": "https://pics.filmaffinity.com/honor_society-393988220-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Thriller sobre los horrores de las citas modernas vistos a través de la desafiante batalla de una joven para sobrevivir a los inusuales apetitos de su nuevo novio.",
+        "titulo": "Fresh",
+        "urlPoster": "https://pics.filmaffinity.com/fresh-544874087-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. Descubren que sus misiones no son ajenas entre sí. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.",
+        "titulo": "Bullet Train",
+        "urlPoster": "https://pics.filmaffinity.com/bullet_train-757922812-large.jpg",
+        "valoracion": 4.5,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Lena (Isabelle Fuhrman) consigue escapar del psiquiátrico ruso en el que está recluida y viaja a EE.UU., haciéndose pasar por la hija desaparecida de una familia adinerada. Pero su nueva vida como Esther no será como ella esperaba, y se enfrentará a una madre que protegerá a su familia a cualquier precio... Precuela de 'La huérfana' (2009).",
+        "titulo": "La huérfana: Primer asesinato",
+        "urlPoster": "https://pics.filmaffinity.com/orphan_first_kill-880267341-large.jpg",
+        "valoracion": 5.3,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Dos novios de la infancia, ambos ahora viudos, comparten una noche junto a un lago en las montañas. Una historia de amor para los que están solos.",
+        "titulo": "A Love Song",
+        "urlPoster": "https://pics.filmaffinity.com/a_love_song-972822220-large.jpg",
+        "valoracion": null,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuando la CIA descubre que uno de sus agentes filtró información durante un secuestro de un avión que acabó en tragedia, el veterano agente Henry Pelham (Chris Pine) es asignado para descubrir quién es el topo entre sus antiguos compañeros en la oficina de la agencia en Viena. Durante su investigación se reencuentra con su antigua colega y ex amante Celia Harrison (Thandiwe Newton). La pareja se verá obligada a difuminar los límites entre la profesión y la pasión mientras reexaminan la misión en la que participaron 8 años atrás.",
+        "titulo": "Una cita con el pasado",
+        "urlPoster": "https://pics.filmaffinity.com/all_the_old_knives-638952135-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Suspenso"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La película explora la vida y la música de Elvis Presley (Butler) a través del prisma de su relación con el coronel Tom Parker (Hanks), su enigmático manager. La historia profundiza en la compleja dinámica que existía entre Presley y Parker que abarca más de 20 años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto de la revolución cultural y la pérdida de la inocencia en Estados Unidos. Y en el centro de ese periplo está Priscilla Presley (Olivia DeJonge), una de las personas más importantes e influyentes en la vida de Elvis.",
+        "titulo": "Elvis",
+        "urlPoster": "https://pics.filmaffinity.com/elvis-647942773-large.jpg",
+        "valoracion": 7.1,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Nueva York, 1920. Georgia Nolan sueña con ser la primera mujer bombero del mundo, pero todos quieren convencerla de que esa no es una profesión para chicas. Cuando, años más tarde, un misterioso pirómano comienza a sembrar el pánico en Broadway, surgirá la oportunidad que siempre ha estado esperando. La investigación es asignada al bombero retirado Shawn, el padre de Georgia. Desesperada por ayudar a su padre y salvar su ciudad, Georgia se disfraza de chico y se une a un pequeño grupo de bomberos inadaptados que van a poner todo su corazón en detener al pirómano.",
+        "titulo": "Fireheart",
+        "urlPoster": "https://pics.filmaffinity.com/fireheart-217675288-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Tras la muerte de su madre y quedarse sin parientes conocidos, Evie se hace un test de ADN y descubre a un primo lejano que nunca supo que tuvo. Al ser invitada por su recién encontrada nueva familia a una fastuosa boda en la campiña inglesa, se verá pronto seducida por el sexy aristócrata anfitrión, pero acabará envuelta en una pesadilla de supervivencia al destapar los retorcidos secretos en la historia de su familia y las inconfesables intenciones que se esconden detrás de su pecaminosa generosidad.",
+        "titulo": "La invitación",
+        "urlPoster": "https://pics.filmaffinity.com/the_invitation-894597576-large.jpg",
+        "valoracion": null,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una joven que viaja a Detroit para una entrevista de trabajo alquila una casa para pernoctar. Pero cuando llega a altas horas de la noche, descubre que la casa está doblemente reservada y que un hombre extraño ya se está quedando allí. En contra de su buen juicio, decide pasar la noche allí, pero pronto descubre que hay mucho más que temer que un invitado inesperado.",
+        "titulo": "Barbarian",
+        "urlPoster": "https://pics.filmaffinity.com/barbarian-715992345-large.jpg",
+        "valoracion": null,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Son los años 70 y Gru crece en un barrio residencial, en pleno boom de los peinados cardados y los pantalones de campana. Como fan incondicional de un famoso supergrupo de villanos, 'Los salvajes 6', Gru idea un plan para demostrarles que es lo suficientemente malvado como para trabajar con ellos. Por suerte, cuenta con la ayuda de sus fieles seguidores, los Minions, siempre dispuestos a sembrar el caos por donde pasan. Juntos, Kevin, Stuart, Bob, y Otto -un nuevo Minion con aparato en los dientes y desesperado por sentirse aceptado- desplegarán su potencial para construir junto a Gru su primera guarida, experimentar con sus primeras armas y llevar a cabo sus primeras misiones.",
+        "titulo": "Minions: El origen de Gru",
+        "urlPoster": "https://pics.filmaffinity.com/minions_the_rise_of_gru-608394212-large.jpg",
+        "valoracion": 5.9,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La aspirante a rapera Elina, de 17 años, se ve obligada a mudarse de Finlandia al sur de Francia cuando su madre consigue un novio francés. Cuando conoce a su nueva hermanastra, la carismática bailarina Sofía (que vive una doble vida llena de drogas y alcohol), se enamora de inmediato. Un enamoramiento que pronto se convierte en obsesión, cuando Elina adopta métodos cada vez más brutales para tenerla para sí misma.",
+        "titulo": "Heartbeast",
+        "urlPoster": "https://pics.filmaffinity.com/heartbeast-201311042-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Marcel es una joven, pequeña y parlanchina caracola con un solo ojo que puede caminar, hablar y opinar sobre el maravilloso mundo que lo rodea. Vive con su abuela, que es amante de Lesley Stahl, en un Airbnb cuando el último invitado de la casa, un director de cine llamado Dean, decide hacer un corto documental sobre él y publicarlo. ¿Cómo responderá Marcel a su nueva celebridad en internet? ¿Cómo cambiará esto su vida?",
+        "titulo": "Marcel the Shell with Shoes On",
+        "urlPoster": "https://pics.filmaffinity.com/marcel_the_shell_with_shoes_on-282394245-large.jpg",
+        "valoracion": 6.9,
+        "genero": "Documental"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Para Becky y Hunter, la vida trata de superar tus miedos y empujar tus límites. Sin embargo, después de subir hasta la cima de una torre de comunicaciones abandonada, se encuentran atrapadas y sin forma de bajar. A 600 metros del suelo y totalmente alejadas de la civilización, las chicas pondrán a prueba sus habilidades de escaladoras expertas y lucharán desesperadamente por sobrevivir aunque lo tengan todo en contra. ¿Lo lograrán?",
+        "titulo": "Fall",
+        "urlPoster": "https://pics.filmaffinity.com/fall-443075622-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Para Hunter y Kevin, dos adolescentes marginados, el camino a la gloria está claro: entregarse al metal, ganar la Batalla de Bandas y ser adorados como si fueran dioses.",
+        "titulo": "Metal Lords",
+        "urlPoster": "https://pics.filmaffinity.com/metal_lords-409396188-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Ruby tiene mucha energía. Su dueño original la entregó a la Sociedad de Rhode Island para la Prevención de la Crueldad hacia los Animales debido a su personalidad generalmente \"ingobernable\".",
+        "titulo": "El rescate de Ruby",
+        "urlPoster": "https://pics.filmaffinity.com/rescued_by_ruby-304111495-mmed.jpg",
+        "valoracion": 5.9,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una joven se muda a un nuevo apartamento con su prometido y se ve atormentada por la sensación de ser acosada por un vigilante invisible en un edificio adyacente.",
+        "titulo": "Watcher",
+        "urlPoster": "https://pics.filmaffinity.com/watcher-449051424-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Peter von Kant es un director de cine de éxito. Vive con su asistente Karl, a quien le gusta maltratar y humillar. Sidonie es la gran actriz que fue su musa durante muchos años. Ella es quien le presenta a Amir, un apuesto joven de escasos recursos. Peter se enamora de Amir al instante y le ofrece alojamiento en su apartamento y ayudarle a entrar en la industria del cine. El plan funciona, pero en cuanto adquiere fama, Amir rompe con Peter, dejándole solo para enfrentarse a sus demonios. Adaptación libre de 'Las amargas lágrimas de Petra von Kant' de Rainer Werner Fassbinder.",
+        "titulo": "Peter von Kant",
+        "urlPoster": "https://pics.filmaffinity.com/peter_von_kant-814813063-large.jpg",
+        "valoracion": null,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Sandler interpreta a un cazatalentos de baloncestistas en horas bajas que, estando en el extranjero, descubre un jugador con enorme talento pero con un pasado difícil. Sin la aprobación de su equipo, decide llevarse el fenómeno con él, dándoles a ambos una última oportunidad para demostrar que son dignos de la NBA",
+        "titulo": "Garra",
+        "urlPoster": "https://pics.filmaffinity.com/hustle-306927612-large.jpg",
+        "valoracion": 6.2,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Basada en los escritos personales de Patricia Highsmith y en los relatos de su familia y sus amantes, la película arroja nueva luz sobre la vida y la obra de la famosa escritora de novelas de suspense, impregnada de temas relacionados con el amor y su influencia decisiva en la identidad.",
+        "titulo": "Amando a Highsmith",
+        "urlPoster": "https://pics.filmaffinity.com/loving_highsmith-615089987-large.jpg",
+        "valoracion": 6.7,
+        "genero": "Documental"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una niña intrépida y un famoso cazador de monstruos marinos unen sus fuerzas para encontrar a una poderosa bestia.",
+        "titulo": "El monstruo marino",
+        "urlPoster": "https://pics.filmaffinity.com/the_sea_beast-740718637-large.jpg",
+        "valoracion": 6.7,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Violet, la condesa viuda de Grantham, ha heredado una villa en el sur de Francia de un viejo amigo. Mientras tanto, un cineasta obtiene el permiso de Mary para rodar una película en Downton Abbey. Robert piensa que tener actores y actrices dando vueltas, maquillados, es una idea terrible, pero otros miembros de la familia, y los sirvientes, están encantados con la idea. Para perderse la \"película espantosa\" de Mary, como la llama Robert, algunos miembros de la familia viajan al sur de Francia para resolver el misterio de por qué el amigo de Violet le dejó una villa. Secuela de la adaptación cinematográfica de la popular serie.",
+        "titulo": "Downton Abbey: Una nueva era",
+        "urlPoster": "https://pics.filmaffinity.com/downton_abbey_a_new_era-590349624-large.jpg",
+        "valoracion": 6.6,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Ambientada en un aislado pueblo de montaña en la Macedonia del siglo XIX, la película sigue a una joven que es secuestrada y luego transformada en bruja por un espíritu ancestral. ",
+        "titulo": "You Wont Be Alone",
+        "urlPoster": "https://pics.filmaffinity.com/you_won_t_be_alone-869013274-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Nicolas Cage se interpreta a sí mismo en esta loca comedia de acción. La versión ficticia de Cage es un actor sin blanca que se ve obligado a aceptar una oferta de un millón de dólares para asistir al cumpleaños de un superfan excéntrico multimillonario (Pedro Pascal). Pero la situación da un giro inesperado cuando Cage es reclutado por una agente de la CIA (Tiffany Haddish) y obligado a estar a la altura de su propia leyenda para salvarse a sí mismo y a sus seres queridos. Con una carrera construida para este preciso momento, el actor ganador de premios debe asumir el papel de su vida: Nick Cage.",
+        "titulo": "El insoportable peso de un talento descomunal",
+        "urlPoster": "https://pics.filmaffinity.com/the_unbearable_weight_of_massive_talent-978504688-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El pequeño Gary vive con Camille Fouquet (Virginie Efira) y Georges Fouquet (Romain Duris), sus excéntricos padres, y un pájaro exótico en un apartamento parisino. Cada noche, Camille y Georges bailan con amor Mr. Bojangles, su canción favorita. En casa de los Fouquet solo hay sitio para la diversión, la fantasía y los amigos. Pero a medida que su fascinante e impredecible madre se adentra más profundamente en su propia mente, quedará en manos de Gary y su padre que Camille esté a salvo.",
+        "titulo": "Esperando a Míster Bojangles",
+        "urlPoster": "https://pics.filmaffinity.com/en_attendant_bojangles-170762767-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una empleada de una empresa tecnológica que sufre agorafobia descubre un crimen e intenta alertar a sus superiores. ",
+        "titulo": "Kimi",
+        "urlPoster": "https://pics.filmaffinity.com/kimi-147311693-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Peter y Emma, de treinta y tantos años, se unen para sabotear las nuevas relaciones de sus ex y recuperarlos para siempre.",
+        "titulo": "Quiero que vuelvas",
+        "urlPoster": "https://pics.filmaffinity.com/i_want_you_back-471147817-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Ray está decidido a encontrar y detener a Mike antes de que pueda causar más carnicería.",
+        "titulo": "Ray Donovan, la película",
+        "urlPoster": "https://pics.filmaffinity.com/ray_donovan_the_movie-883326024-large.jpg",
+        "valoracion": 6.3,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una pareja parece estar viviendo una vida perfecta después de que su hijo sea declarado sanado tras padecer una enfermedad prolongada.",
+        "titulo": "Amor para adultos",
+        "urlPoster": "https://pics.filmaffinity.com/kaerlighed_for_voksne-932228964-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una pareja divorciada se une y viaja a Bali para intentar evitar que su hija, perdidamente enamorada, cometa el mismo error que creen que cometieron ellos 25 años atrás.",
+        "titulo": "Viaje al paraíso",
+        "urlPoster": "https://pics.filmaffinity.com/ticket_to_paradise-626528836-mmed.jpg",
+        "valoracion": 8.0,
+        "genero": "Romance"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "A Andrew, un joven de 22 años recién salido de la universidad que no sabe qué hacer con su vida, no le queda más remedio que volver con su familia a Nueva Jersey. Todo un experto en montar un buen sarao, consigue un trabajo de animador en las fiestas de bar mitzva de los compañeros de clase de su hermano pequeño. Cuando se hace amigo de una mujer llamada Domino y su hija Lola, que tiene un ligero autismo, Andrew descubre el futuro que desea realmente... aunque puede que no sea el suyo.",
+        "titulo": "Bailando por la vida",
+        "urlPoster": "https://pics.filmaffinity.com/cha_cha_real_smooth-720030457-large.jpg",
+        "valoracion": 6.4,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuando una ruptura interdimensional altera la realidad, Evelyn (Michelle Yeoh), una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que solo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo. ",
+        "titulo": "Todo a la vez en todas partes",
+        "urlPoster": "https://pics.filmaffinity.com/everything_everywhere_all_at_once-245462960-large.jpg",
+        "valoracion": 7.1,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Johan es un excéntrico e inadaptado habitante de una pequeña aldea noruega. Huérfano desde niño y aficionado a los explosivos, Johan intenta conquistar el corazón de su vecina Solvor, a quien voló por los aires accidentalmente de pequeños.",
+        "titulo": "Todo el mundo odia a Johan",
+        "urlPoster": "https://pics.filmaffinity.com/alle_hater_johan-107508009-large.jpg",
+        "valoracion": 6.7,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Basada en hechos reales. En 1909, la expedición danesa Alabama, liderada por el reputado Capitán Ejnar Mikkelsen (Coster-Waldau) emprende una difícil misión para demostrar que Groenlandia no está dividida en dos trozos de tierra y refutar el reclamo de Estados Unidos sobre el territorio. Dejando atrás a su tripulación, le acompañará en el duro viaje, que llegarán a realizar incluso a pie por el hielo, el inexperto Iver Iversen (Joe Cole)",
+        "titulo": "Perdidos en el Ártico",
+        "urlPoster": "https://pics.filmaffinity.com/against_the_ice-111091737-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Adam Reed (Reynolds) es un viajero del tiempo del año 2050, que se ha aventurado en una misión de rescate para buscar a Laura (Zoe Saldana), la mujer que ama, quien se perdió en el continuo espacio-tiempo en circunstancias misteriosas. Cuando la nave de Adam se estropea, es enviado en espiral al año 2022, y al único lugar que conoce de esta época de su vida: su casa, donde vive su yo cuando tenía 12 años.",
+        "titulo": "El proyecto Adam",
+        "urlPoster": "https://pics.filmaffinity.com/the_adam_project-982692706-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Explorando el cine más poderoso de la última década, Mark Cousins actualiza su clásico \"The Story of Film\" con \"A New Generation\". Abarcando desde 2010 hasta 2021, incluyendo la reciente pandemia, Cousins despliega un relato esperanzador sobre la innovación cinematográfica, al mismo tiempo que intenta ofrecer nuevas maneras de ver y ser en la era digital. Incluye escenas de 97 películas entre las que se encuentran \"Parásitos\", \"Zama\", \"Black Panther\", \"The Babadook\", \"Tangerine\" y \"Lazzaro Felicce\", entre otras.",
+        "titulo": "The Story of Film: A New Generation",
+        "urlPoster": "https://pics.filmaffinity.com/the_story_of_film_a_new_generation-690620118-large.jpg",
+        "valoracion": 6.9,
+        "genero": "Documental"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La película recrea el incendio que sufrió la Catedral de Notre-Dame de París en abril de 2019. El virulento incendio provocó que su emblemática aguja, construida entre los siglos XII y XIV, y el tejado de la catedral gótica de la capital francesa colapsaran y tan solo una hora después de declararse el incendio se derrumbaran. La primera piedra de la catedral se colocó en 1163 y desde que terminó su construcción Notre Dame ha sido símbolo del catolicismo, del skyline parisino y uno de los monumentos más visitados del mundo con alrededor de 13 millones de visitantes al año.",
+        "titulo": "Arde Notre Dame",
+        "urlPoster": "https://pics.filmaffinity.com/notre_dame_brule-235429117-mmed.jpg",
+        "valoracion": 5.8,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Un investigador farmacéutico amenaza con matar a los pasajeros del avión en el que viaja, lo que da paso al caos, desesperación y miedo, no solo dentro del avión, también en el planeta. ",
+        "titulo": "Declaración de emergencia",
+        "urlPoster": "https://pics.filmaffinity.com/bisang_seoneon-597478056-large.jpg",
+        "valoracion": null,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda de su madre y se hunde cada vez más en su propia oscuridad, ella regresa a Seattle. Tessa es la única capaz de entenderle y calmarle... él la necesita, pero ella ya no es la chica buena y dulce que era cuando llegó a la universidad. Deberá plantearse si lo que debe hacer ahora es salvar a Hardin y su relación con él, o si ha llegado el momento de pensar solo en ella. Si quieren que su amor sobreviva, primero tendrán que trabajar en sí mismos. ¿Pero será su destino seguir estando juntos?",
+        "titulo": "After. Amor infinito",
+        "urlPoster": "https://pics.filmaffinity.com/after_ever_happy-900095716-large.jpg",
+        "valoracion": 3.3,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El agente de la CIA Court Gentry (Ryan Gosling), alias Sierra Seis, fue sacado de una cárcel federal reclutado por su supervisor, Donald Fitzroy (Billy Bob Thornton). Gentry fue en su día un mercader de la muerte altamente cualificado, autorizado por la Agencia. Pero ahora las tornas han cambiado y Seis es el objetivo, perseguido por todo el mundo por Lloyd Hansen (Chris Evans), un antiguo compañero de la CIA que no se detendrá ante nada para acabar con él. La agente Dani Miranda (Ana de Armas) le cubre las espaldas. La necesitará.",
+        "titulo": "El agente invisible",
+        "urlPoster": "https://pics.filmaffinity.com/the_gray_man-486053339-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Espionaje"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El dúo tiene que enfrentar el haber sido sentenciado a pasar tiempo en un campo espacial. Allí, al juguetear con un simulador de acoplamiento, su transbordador espacial se desvía dirigiéndolos hacia un agujero negro que los teletransporta al 2022.",
+        "titulo": "Beavis and Butt-Head Do the Universe",
+        "urlPoster": "https://pics.filmaffinity.com/beavis_and_butt_head_do_the_universe-933416976-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La vida de Margaret está en orden. Es una profesional y madre capaz, disciplinada y exitosa. Todo está bajo control. Hasta que David regresa, trayendo consigo los fantasmas del pasado de Margaret de hace 20 años. ",
+        "titulo": "Resurrection",
+        "urlPoster": "https://pics.filmaffinity.com/resurrection-395798944-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Tras sufrir una tragedia personal, Harper (Jessie Buckley) se retira sola a la hermosa campiña inglesa, con la esperanza de haber encontrado el lugar ideal para curarse. Pero algo o alguien parece estar acechándola. Lo que comienza como un pavor latente terminará convirtiéndose en una auténtica pesadilla, habitada por sus recuerdos y miedos más oscuros.",
+        "titulo": "Men",
+        "urlPoster": "https://pics.filmaffinity.com/men-955382305-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Está claro lo que pretende Hap Jackson (Justin Long) al ofrecer a Mina Murray (Kate Bosworth) llevarla a su casa desde el bar local. Pero los motivos de Mina no son tan evidentes y la incertidumbre de su actitud genera una atmósfera tensa y espeluznante entre ambos",
+        "titulo": "House of Darkness",
+        "urlPoster": "https://pics.filmaffinity.com/house_of_darkness-529976557-mmed.jpg",
+        "valoracion": 7.5,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Hae-Joon, un veterano detective, investiga la sospechosa muerte de un hombre en la cima de una montaña. Pronto, comenzará a sospechar de Sore, la mujer del difunto, mientras la atracción que siente por ella le desestabilizará.",
+        "titulo": "Decision to Leave",
+        "urlPoster": "https://pics.filmaffinity.com/heojil_kyolshim-273279743-large.jpg",
+        "valoracion": 7.1,
+        "genero": "Crimen"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Sur perdió su beca porque se difundieron unos selfies suyos borracha en Internet. Sur recurre a Amin para que le ayude, un chico que trabaja en una fotocopiadora. Juntos, en la tienda, intentan descubrir la verdad sobre la noche de la fiesta hackeando el teléfono de los estudiantes.",
+        "titulo": "La fotocopiadora",
+        "urlPoster": "https://pics.filmaffinity.com/penyalin_cahaya-232989328-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "La historia del origen de Buzz Lightyear, el héroe que inspiró el juguete, y que nos da a conocer al legendario Guardián Espacial que acabaría contando con generaciones de fans.",
+        "titulo": "Lightyear",
+        "urlPoster": "https://pics.filmaffinity.com/lightyear-529062623-large.jpg",
+        "valoracion": 5.8,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuenta la historia de cinco famosos delincuentes que tratan de realizar su empresa más complicada hasta la fecha: portarse bien. Se basa en los libros ilustrados homónimos de Aaron Blabey.",
+        "titulo": "Los tipos malos",
+        "urlPoster": "https://pics.filmaffinity.com/the_bad_guys-974887202-large.jpg",
+        "valoracion": 6.3,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Tinja es una joven gimnasta que intenta desesperadamente complacer a su madre. Esta es una mujer obsesionada con mostrar ante el mundo, a través de sus redes sociales, la imagen de una vida familiar perfecta. Una noche, Tinja encontrará un extraño huevo. En lugar de deshacerse de él, lo esconde y mantiene caliente, porque percibe vida dentro de él. Pero ni ella misma podría haber imaginado nunca lo que saldría del cascarón…",
+        "titulo": "Hatching",
+        "urlPoster": "https://pics.filmaffinity.com/pahanhautoja-644867098-large.jpg",
+        "valoracion": 6.1,
+        "genero": "Terror"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Goku destruyó en su momento a la Patrulla Roja. Ahora, ciertos individuos han decidido continuar con su legado y han creado a los androides definitivos: Gamma 1 y Gamma 2. Estos dos androides se autoproclaman \"superhéroes\" y deciden atacar a Piccolo y a Gohan. ¿Cuál es el objetivo de la nueva Patrulla Roja? Ante un peligro inminente, ¡llega el momento del despertar del Superhéroe!",
+        "titulo": "Dragon Ball Super: Super Hero",
+        "urlPoster": "https://pics.filmaffinity.com/doragon_boru_supa_supa_hiro-181561937-large.jpg",
+        "valoracion": 6.0,
+        "genero": "Animación"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "En la isla de Tahití, en la Polinesia Francesa, el Alto Comisario de la República, De Roller, representante del Estado francés, es un hombre calculador de modales impecables. Tanto en las recepciones oficiales como en los establecimientos ilegales, no deja de tomar el pulso a una población local cuya ira puede despertarse en cualquier momento. Y más aún cuando un rumor se instala: parece haberse avistado un submarino, cuya presencia fantasmal podría anunciar una reanudación de los ensayos nucleares franceses",
+        "titulo": "Pacifiction",
+        "urlPoster": "https://pics.filmaffinity.com/pacifiction-364246203-large.jpg",
+        "valoracion": 6.7,
+        "genero": "Drama"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios ahora conviven -y cazan- con los seres humanos en todo el mundo. Este frágil equilibrio remodelará el futuro y determinará, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
+        "titulo": "Jurassic World: Dominion",
+        "urlPoster": "https://pics.filmaffinity.com/jurassic_world_dominion-228831206-large.jpg",
+        "valoracion": 5.0,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "David \"el Griego\" Samarás es el productor general del popular talk show \"Hoy se arregla el mundo\", donde presunta gente común dirime conflictos de relación, de pareja, de amistad, de trabajo, de padres e hijos. El lazo más perdurable de su vida es Benito, su hijo de 9 años, fruto de una relación ocasional. La historia cambia por completo cuando se entera de que Benito no es su hijo. La búsqueda por el verdadero papá los llevará a una encrucijada mucho más grande que la que salieron a enfrentar.",
+        "titulo": "Hoy se arregla el mundo",
+        "urlPoster": "https://pics.filmaffinity.com/hoy_se_arregla_el_mundo-276727092-large.jpg",
+        "valoracion": 5.6,
+        "genero": "Comedia"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios. Nueva entrega de la saga Predator.",
+        "titulo": "Predator: La presa",
+        "urlPoster": "https://pics.filmaffinity.com/prey-687433327-large.jpg",
+        "valoracion": 6.1,
+        "genero": "Acción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.",
+        "titulo": "Doctor Strange en el multiverso de la locura",
+        "urlPoster": "https://pics.filmaffinity.com/doctor_strange_in_the_multiverse_of_madness-610981386-large.jpg",
+        "valoracion": 6.5,
+        "genero": "Aventura"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Una mujer opta por un procedimiento de clonación después de recibir un diagnóstico terminal, pero cuando se recupera, sus intentos de que su clon sea dado de baja fracasan, lo que lleva a un duelo a muerte ordenado por la corte.",
+        "titulo": "Dual",
+        "urlPoster": "https://pics.filmaffinity.com/dual-155453589-large.jpg",
+        "valoracion": 5.5,
+        "genero": "Ficción"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "Katia y Maurice Krafft amaban dos cosas: el uno al otro y los volcanes. Durante dos décadas, esta atrevida pareja de vulcanólogos franceses se dejó seducir por la emoción y el peligro de este elemental triángulo amoroso. Recorrieron el planeta, persiguiendo las erupciones y sus consecuencias, documentando sus descubrimientos en impresionantes fotografías y películas para compartirlos con un público cada vez más curioso a través de intervenciones en los medios de comunicación y giras de conferencias.",
+        "titulo": "Fire of Love",
+        "urlPoster": "https://pics.filmaffinity.com/fire_of_love-957961733-large.jpg",
+        "valoracion": 7.4,
+        "genero": "Thriller"
+    },
+    {
+        "tipoTitulo": "Pelicula",
+        "sinopsis": "El equipo de Jackass ha vuelto para su cruzada final. Johnny Knoxville, Steve-O y el resto de la pandilla regresan para otra ronda de divertidas, salvajemente absurdas y a menudo, peligrosos retos.",
+        "titulo": "Jackass Forever",
+        "urlPoster": "https://pics.filmaffinity.com/jackass_forever-501871954-large.jpg",
+        "valoracion": 5.7,
+        "genero": "Comedia"
+    }
+]
